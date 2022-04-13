@@ -1,4 +1,4 @@
-# Coupon's analyis
+# Coupon analyis
 
 Analysis of these two coupon categories 'Bar' and 'Coffee House'
 
