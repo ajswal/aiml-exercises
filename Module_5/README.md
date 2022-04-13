@@ -2,7 +2,7 @@
 
 Analysis of these two coupon categories 'Bar' and 'Coffee House'
 
-Summary of the observations
+## Summary of the observations
 ###### 1) People travelling with Kids as passenger tend to accept less Bar and Coffe House coupons
 ###### 2) When travelling with friends acceptance rate of both the coupons is higher than the rejection rate.
 ###### 3) Time to a coupon impacts the acceptance rate for Coffee House Coupon
