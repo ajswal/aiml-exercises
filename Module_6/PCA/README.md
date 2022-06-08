@@ -1,1 +1,1 @@
-### Summarizing data with PCA
+# Summarizing data with PCA
