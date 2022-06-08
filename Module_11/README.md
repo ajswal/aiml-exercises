@@ -1,4 +1,4 @@
-# Used Car Price Annalysis
+# Used Car Price Analysis
 
 Analysis of what features drives the price of used cars'
 
