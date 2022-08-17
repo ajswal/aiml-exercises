@@ -13,7 +13,13 @@ Analysis of what features will drive users to go for term deposit.
 ###### education
 ###### pdays - frequency of customer contact 
 
+<a href="age.png">
+<img src="age.png" width="400" />
+</a>
 
+<a href="marital.png">
+<img src="marital.png" width="400" />
+</a>
 
 ## Link to the the workbook.
 https://github.com/ajswal/aiml-exercises/blob/main/Module_17/comparing_classifiers.ipynb
