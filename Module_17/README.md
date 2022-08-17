@@ -21,7 +21,9 @@ Analysis of what features will drive users to go for term deposit.
 <img src="marital.png" width="400" />
 </a>
 
-### Out of the key features Age and Marital status, as seen in the above graphs customers in age group of 20-40 opt more for term deposits.
+#### Out of the key features Age and Marital status, as seen in the above graphs 
+##### Customers in age group of 20-40 opt more for term deposit.
+##### Married (1) and single (2) customers opt more for term deposit than divorced (3)
 
 
 ## Link to the the workbook.
