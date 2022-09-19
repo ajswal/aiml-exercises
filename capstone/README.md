@@ -12,8 +12,9 @@ The model can be deployed to filter conversations in the following application.
 # Approach
 The project attempts to build following models :-
 1. Logistic Regression, Decision Tree & Naive Bayes Model's using Count Vectorizer , TfidfVectorizer and lemmatization (for normalizing the data).
-2. Logistic Regression, Decision Tree & Naive Bayes Model's using Count Vectorizer , TfidfVectorizer and stemming(for normalizing the data).
-3. Model using Google Bert for Hurt Speech classification. Base pre-trained Bert model is used and trained on training/testing corpus.
+Link to the workbook : https://github.com/ajswal/aiml-exercises/blob/main/capstone/capstone_content_moderation_LR_DT_NB.ipynb
+3. Logistic Regression, Decision Tree & Naive Bayes Model's using Count Vectorizer , TfidfVectorizer and stemming(for normalizing the data).
+4. Model using Google Bert for Hurt Speech classification. Base pre-trained Bert model is used and trained on training/testing corpus.
 5. Real world chat data is pulled from production, the data is manually tagged by Customer Support teammates, and used as evaluation set for the model.
 
 # Analysis and Finding's
