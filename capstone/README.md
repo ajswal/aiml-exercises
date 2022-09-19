@@ -15,7 +15,8 @@ The project attempts to build following models :-
 Link to the workbook : https://github.com/ajswal/aiml-exercises/blob/main/capstone/capstone_content_moderation_LR_DT_NB.ipynb
 3. Logistic Regression, Decision Tree & Naive Bayes Model's using Count Vectorizer , TfidfVectorizer and stemming(for normalizing the data).
 4. Model using Google Bert for Hurt Speech classification. Base pre-trained Bert model is used and trained on training/testing corpus.
-5. Real world chat data is pulled from production, the data is manually tagged by Customer Support teammates, and used as evaluation set for the model.
+Link to workbook : https://github.com/ajswal/aiml-exercises/blob/main/capstone/capstone_content_moderation_bert.ipynb
+6. Real world chat data is collected from production environment , the data is manually tagged by Customer Support teammates, and used as evaluation set for the model. The data has been redacted of any sensitive info.
 
 # Analysis and Finding's
 1. Out of the three model Logistic Regression, Deciion Tree and Naive Bayes both Logistic Regression and Naive Bayes have higher accuracy compared to Decision Tree model
