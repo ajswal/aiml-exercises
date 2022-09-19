@@ -1,6 +1,6 @@
 # Objective
 The objective of this project is to perform content moderation on incoming chat conversations in conversational channels.
-Content Moderation classification is borad and can have multiple classification based on application need.
+Content Moderation classification is broad and can have multiple classification based on application need.
 In this project primary focus is on identifying hurt/hateful conversation.
 
 # Usage
