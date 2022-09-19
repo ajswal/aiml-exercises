@@ -38,6 +38,8 @@ a refrence to some actual issue user is facing.
 8. Even though the Bert model performed beter, but the False Positive rate is higher than Logistic Regression Model 
 
 # Next Steps
-1. The accuracy of the Bert can be further improve by more training.
-2. This will also help in redcing the false positive rate.
+1. Overall Bert model would be the recommended model, especially as it has performed well on the organization specific Live data.
+2. The accuracy of the Bert can be further improve by more training.
+3. This will also help in reducing the false positive rate.
+4. For the falsely identified sentences, try adding a filter based on available customer data, to supplement the model prediction.
 
