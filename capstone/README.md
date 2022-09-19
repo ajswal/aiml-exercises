@@ -32,3 +32,5 @@ a refrence to some actual issue user is facing.
 #### 2) No the 50$ charge was from a porn site that I did not authorize or the 9$ that came with it right after words. (Fllagged word - porn)
 #### 3) My name is John Lynch and I havea problem resetting my password. (Fllagged word - Lynch) 
 #### 4) Hi iam Justin cox. (Fllagged word - cox) 
+
+6. For some of these situations adding a filter on top of the actual model prediction will help improve the prediction. 
