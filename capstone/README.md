@@ -20,3 +20,7 @@ The project attempts to build following models :-
 1. Out of the three model Logistic Regression, Deciion Tree and Naive Bayes both Logistic Regression and Naive Bayes have higher accuracy compared to Decision Tree model
 2. Logistic Regression with TfidfVectorizer, on pre-processed data withoout stemming or lemmatization, has the best score.
  <img width="702" alt="Screen Shot 2022-09-19 at 12 33 31 AM" src="https://user-images.githubusercontent.com/97572000/190969758-1c5f2ba4-1e6b-447b-9529-1bfcf8df4c6c.png">
+3. On Real World dataset, Logistic Regression with TfidfVectorizer is .7875, which is .10 lower than on training set.
+<img width="506" alt="Screen Shot 2022-09-19 at 12 36 38 AM" src="https://user-images.githubusercontent.com/97572000/190970255-b9d6bf4a-995f-4be8-8064-aef727859aff.png">
+4. Pre- trained Base Bert with trained on same training set and evaluated on same real word set has higher score - .8837
+ <img width="467" alt="Screen Shot 2022-09-19 at 12 38 29 AM" src="https://user-images.githubusercontent.com/97572000/190970558-1602b1a7-7db3-4df0-a122-213869b105c1.png">
