@@ -27,7 +27,7 @@ The project attempts to build following models :-
 5. Certain sententes are falsely identified by the model as hurtfull, but in reality the word which triggered the model hurtful class is part of a name or 
 a refrence to some actual issue user is facing 
    ## Example's: 
-   1) Can a  account be opened in Niger to allow a person to send and receive money?  - (Fllagged word - Niger)
-   2) No the 50$ charge was from a porn site that I did not authorize or the 9$ that came with it right after words. (Fllagged word - porn)
-   3) My name is John Lynch and I havea problem resetting my password. (Fllagged word - Lynch) 
-   4) Hi iam Justin cox. (Fllagged word - cox) 
+   ### 1) Can a  account be opened in Niger to allow a person to send and receive money?  - (Fllagged word - Niger)
+   ### 2) No the 50$ charge was from a porn site that I did not authorize or the 9$ that came with it right after words. (Fllagged word - porn)
+   ### 3) My name is John Lynch and I havea problem resetting my password. (Fllagged word - Lynch) 
+   ### 4) Hi iam Justin cox. (Fllagged word - cox) 
